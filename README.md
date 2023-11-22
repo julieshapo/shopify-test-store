@@ -1,9 +1,8 @@
 # Shopify test project of online store
 
-This project is created to be used for the [Shopify Theme Development – Online Store 2.0 + TailwindCSS course](https://weeklyhow.com/courses/)
+This project is created to be used for learning the Shopify development process 
 
-
-Covered themes
+# Covered themes
 ------------ | -------------
 :heavy_check_mark: | Installing Development Tools
 :heavy_check_mark: | Navigational Bar
